@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## Eat Smart Play Smart App
 
-You can use the [editor on GitHub](https://github.com/EatSmartPlaySmart/esps-webpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Eat Smart Play Smart App provides practical information on nutrition and physical activity for educators working in Outside School Hours Care (OSHC) services. Current features of the App include recipe ideas for breakfast and afternoon tea time, and indoor/ outdoor games and activities. In addition, the App includes menu planning information and sample policies in nutrition and physical activity to support OSHC staff in developing policies suitable to their service. The Eat Smart Play Smart App is a helpful, user-friendly resource to help OSHC staff to promote healthy eating and physical activity among children.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### For any feedback/enquiries, send an email to: 
+[Link](mailto:eatsmartplaysmart1@gmail.com)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
